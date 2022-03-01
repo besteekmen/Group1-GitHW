@@ -4,7 +4,7 @@ This repo is created for the Git assignment of Group1 at Integrify Academy.
 **Contributors:** Aylar Soltani, Beste Ekmen
 
 **Git Graph:** At CET 10:30 before this edit.
-<img src="https://i.imgur.com/HVLxi9h.png" width=100% />
+<img src="https://i.imgur.com/HVLxi9h.png" width=50% />
 
 For this assignment we have created a repo with a README file, then created our own branches with our names where we also have created a file with our names. Later we have merged these personal branches to master branch.
 
