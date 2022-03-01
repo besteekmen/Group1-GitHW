@@ -1,1 +1,21 @@
 This is Aylar from Vim.
+
+------------------------------------
+Steps
+-git clone https://githu..
+-cd Group1-GitHW
+-ls
+-git status
+-git branch -a
+-git checkout aylar
+-git status
+-ls
+-vi aylar.txt
+-less aylar.txt 
+-git status
+-git add -A 
+-git commit  -m "add aylar.txt"
+-git push
+-git checkout master
+-git merge aylar
+-git push
